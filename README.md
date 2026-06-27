@@ -1,13 +1,21 @@
 # LagFix
 
-#### Removes the baby food lag in 1.4
+LagFix removes a heavy baby-food alert check from RimWorld 1.4.
 
-Patches away the alerts telling you about baby food problems on your map. Because those checks are super heavy.
+That alert can be surprisingly expensive on some maps. This mod patches it away so the game spends less time checking for a warning you may not need.
 
-### License
+Small fix, simple purpose: less baby-food lag.
 
-Free. As in free beer. Copy, learn and be respectful.
+----
 
-### Author
+If you are looking for the Steam Workshop versions:
+https://steamcommunity.com/id/brrainz/myworkshopfiles/
 
-Andreas "Brrainz" Pardeike
+For mod support/feedback, visit my Discord:
+https://discord.gg/CYnWvrbNhD
+
+Support me with as little as $1:
+https://patreon.com/pardeike
+
+ENJOY
+/Brrainz
